@@ -1,23 +1,22 @@
-# ParkLink Website
+# ParkLink Deep Site
 
-A Vite + React multi-page marketing website for ParkLink.
+Professional multi-page ParkLink website built with Vite + React.
 
-## Run locally
-```bash
-npm install
-npm run dev
-```
+## Pages
+- `/` Home
+- `/problem`
+- `/modules`
+- `/app`
+- `/cost`
+- `/reservations`
+- `/verification`
+- `/future`
+- `/contact`
 
-## Build
-```bash
-npm run build
-```
+## Deploy on Vercel
+Framework: Vite  
+Install: `npm install`  
+Build: `npm run build`  
+Output: `dist`
 
-## Vercel settings
-- Framework Preset: Vite
-- Install Command: npm install
-- Build Command: npm run build
-- Output Directory: dist
-- Root Directory: blank if these files are directly in the GitHub repo
-
-Important: upload the extracted files/folders directly to GitHub, not the ZIP.
+Upload the extracted files directly to GitHub, not the zip.
